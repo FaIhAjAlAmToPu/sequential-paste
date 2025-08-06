@@ -9,6 +9,13 @@ A lightweight AutoHotkey v2 script that allows you to **paste a list of copied i
 * 🔽 Press `Ctrl + V` to paste the **next value** in the list
 * 🔄 Press `Ctrl + Q` to **restart** from the beginning
 * 🔃 Press `Ctrl + R` to **reload a new list** from the clipboard
+* 
+### 📦 Installation
+
+1. Install [AutoHotkey v2](https://www.autohotkey.com/download/).
+2. Save the script as `SequentialPaste.ahk`.
+3. Double-click the script to run it.
+---
 
 ### ⚙️ Usage
 
@@ -19,7 +26,7 @@ A lightweight AutoHotkey v2 script that allows you to **paste a list of copied i
    * `Ctrl + V` → Paste the next value in the list
    * `Ctrl + Q` → Restart from the beginning
    * `Ctrl + R` → Reload the list from the clipboard
-
+---
 ### 💻 Example
 
 You copy:
@@ -42,12 +49,6 @@ Trying again gives a beep and message. Press `Ctrl + Q` to restart or `Ctrl + R`
 
 ---
 
-### 📦 Installation
-
-1. Install [AutoHotkey v2](https://www.autohotkey.com/download/).
-2. Save the script as `SequentialPaste.ahk`.
-3. Double-click the script to run it.
----
 
 ### 📜 License
 
